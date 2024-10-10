@@ -1,7 +1,4 @@
 
-
-# Create the README content
-readme_content = """
 # GitHub Data Dive
 
 ## Project Overview
